@@ -16,8 +16,11 @@ GIT
 
 git init     # make directory into git project, makes .git directory
 git status   # show the current files (use .gitignore to skip some)
+git add :/ --all  # adds the current version of all the files
+git commit -m "description"  # stores a "chapter" with the added changes
 
-i
+
+
 
 
 
