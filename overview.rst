@@ -1,4 +1,5 @@
-
+All notes from the first time:
+-------------------------------
 TERMINAL
 ===============================
 
@@ -26,9 +27,3 @@ git commit -m "description"  # stores a "chapter" with the added changes
 git log       # show all chapters
 git checkout   # a bit complicated, but can go back in history
 gti clone      # make a local copy of remote one
-
-
-
-
-
-
