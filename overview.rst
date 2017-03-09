@@ -11,7 +11,7 @@ TERMINAL
 * ``man [command]  # q to stop``
 
 GIT
-
+===============================
 
 git stores 'chapters' of changes (add, delete, change); two advantages:
 
@@ -19,9 +19,6 @@ git stores 'chapters' of changes (add, delete, change); two advantages:
 - you can easily collaborate with others
 
 3 ways: RubyMine, Git Desktop, terminal typing
-
-HEAD
-===============================
 
 * ``git init     # make directory into git project, makes .git directory``
 * ``git status   # show the current files (use .gitignore to skip some)``
